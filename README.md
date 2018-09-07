@@ -46,7 +46,7 @@ The ICO Round 2 sort selects the 1st, 0th, 2nd, and 5th character in the hash, a
 
 
 
-### What is the hash of my document?
+## What is the hash of my document?
 
 
 1. Run the `hashGenerator.js` script, passing it the id you sent to the lottery registration process.
