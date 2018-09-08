@@ -4,13 +4,15 @@
     width="125px;">
 
 </p>
-<h3 align="center">NEX ICO Round 2Lottery</h3>
+<h3 align="center">NEX ICO Round 2 Lottery</h3>
 <hr/>
 
 
-This is a repository that contains the data submitted to our lottery system, our methodology for determining the winners of the lottery, and the results of the lottery.  
+This is a repository that contains hashes of data submitted to our KYC system, our methodology for determining the winners of the lottery, and the results of the lottery for spots in Round 2 of the ICO.  
 
 All results are verifiable by anyone who wishes to follow the steps below. These results are final
+
+Winning hashes are listed in `winning_hashes_ico_round2.json`
 
 ## Setup
 
